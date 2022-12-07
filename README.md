@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Troy, aka @ivylongbow, 
 - 👀 I’m interested in electronics/mechanics/robotics/DSP algorithms, etc.
-- 🌱 I’m currently learning python and HTML5
+- 🌱 I’m currently learning python and C#
 - 💞️ I’m looking to collaborate on mindmap server develoupment
 - 📫 Reach me via ivylongbow@hotmail.com 
 
